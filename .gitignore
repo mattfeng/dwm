@@ -1,0 +1,6 @@
+# specific files
+config.h
+dwm
+
+# build
+*.o
